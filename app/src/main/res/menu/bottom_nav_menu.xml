@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bot1"
+        android:title="First screen" />
+    <item
+        android:id="@+id/bot2"
+        android:title="Second screen" />
+    <item
+        android:id="@+id/bot3"
+        android:title="third screen" />
+    <item
+        android:id="@+id/bot4"
+        android:title="forth screen" />
+</menu>
